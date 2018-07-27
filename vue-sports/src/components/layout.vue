@@ -56,6 +56,7 @@ export default {
     left: 20px;
     color: #fff;
     line-height: 30px;
+    cursor: pointer;
   }
   .layout-user{
     float: right;
